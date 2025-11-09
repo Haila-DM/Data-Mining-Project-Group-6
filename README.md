@@ -1,2 +1,26 @@
 # DataMiningProject-G-6
 Data mining project for group-6 on title of Exploratory Data Analysis (EDA) of Netflix Movies and TV Shows.
+# 🎬 Netflix Movies and TV Shows - Exploratory Data Analysis
+
+## 📖 Description
+This project analyzes the Netflix catalog to uncover trends in content addition, genre popularity, and rating distribution over time.
+
+We used Python libraries such as Pandas, Matplotlib, and Seaborn to clean, explore, and visualize the dataset.
+
+## 📊 Key Insights
+- Most content on Netflix are Movies.
+- The majority of titles are produced in the United States.
+- Content additions peaked between 2018–2020.
+- Top genres include International Movies and Dramas.
+
+## 🧰 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Google Colab
+- scikit-learn
+- GitHub for version control
+
+## 📈 Results
+Model accuracy (Movie vs TV Show classification): **84%**
+
+## 👨‍💻 Author
+Haile Demewoz
