@@ -30,9 +30,11 @@ We used Python libraries such as Pandas, Matplotlib, and Seaborn to clean, explo
 Model accuracy (Movie vs TV Show classification): **84%**
 
 ## 👨‍💻 Author
-1. Haile Demewoz
-2. Mekuria  Belete
-3. Meckyias Adefris
-4. Tigist Getnet
-5. Mekilit Tadess
-6. Kalkidan Cheru
+| Name        | ID_NO  |
+|--------------|--------|
+| Haile Demewoz   | 4022  |
+| Meckyias Adefris |   |
+| Mekuria  Belete  |   |
+| Tigist Getnet  |   |
+| Mekilit Tadess   |   |
+| Kalkidan Cheru  |   |
