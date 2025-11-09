@@ -6,7 +6,7 @@
 # GAFAT INSTITUTE OF TECHNOLOGY
 # DEPARTMENT OF COMPUTER SCIENCE
 
-# DataMiningProject-G-6
+# Data Mining Project Group-6
 Data mining project for group-6 on title of Exploratory Data Analysis (EDA) of Netflix Movies and TV Shows.
 
 # 🎬 Netflix Movies and TV Shows - Exploratory Data Analysis
