@@ -31,12 +31,12 @@ We used Python libraries such as Pandas, Matplotlib, and Seaborn to clean, explo
 ## 📈 Results
 Model accuracy (Movie vs TV Show classification): **84%**
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 | Name        | ID_NO  |
 |--------------|--------|
 | Haile Demewoz   | 4022  |
-| Meckyias Adefris |   |
-| Mekuria  Belete  |   |
-| Tigist Getnet  |   |
-| Mekilit Tadess   |   |
-| Kalkidan Cheru  |   |
+| Meckyias Adefris | 1388  |
+| Mekuria  Belete  | 1431  |
+| Tigist Getnet  | 1394  |
+| Mekilit Tadess   | 1104  |
+| Kalkidan Cheru  | 1514  |
